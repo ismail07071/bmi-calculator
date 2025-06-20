@@ -5,6 +5,4 @@ Bu proje, kullanıcıdan alınan boy ve kilo bilgileri ile Vücut Kitle İndeksi
 ## Kullanılan Teknolojiler
 - Python 3
 
-## Çalıştırmak için
-```bash
-python bmi_calculator.py
+
